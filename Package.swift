@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "heresdk",
             url: "https://github.com/onstruc/here-sdk-ios/releases/download/v1.0.1/heresdk.xcframework.zip",
-            checksum: "979c5fb05b56c96dcd8a7e6bbd22e828f7e33530d720b9a5f873c752126d6558"
+            checksum: "871e75b70336793636ec6cdfa3bba12196ff5ab8f6ec3bda1bd863dcd622dc65"
         )
     ]
 )
