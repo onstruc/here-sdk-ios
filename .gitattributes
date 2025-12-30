@@ -1,8 +1,0 @@
-*.xcframework/** filter=lfs diff=lfs merge=lfs -text
-*.framework binary
-*.signature binary
-*_CodeSignature* binary
-*.dylib binary
-*.a binary
-Sources/heresdk.xcframework/**/heresdk filter=lfs diff=lfs merge=lfs -text
-Sources/heresdk.xcframework/**/*.dSYM/** filter=lfs diff=lfs merge=lfs -text
